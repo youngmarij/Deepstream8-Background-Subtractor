@@ -30,11 +30,11 @@ The application receives an RTSP video stream as input and produces two separate
 <p align="center">
   <img src="result/sample_720p_gif.gif" width="900" alt="Sample">
 </p>
----
+
 <p align="center">
   <img src="result/backgroundsubstractor.gif" width="900" alt="Sample">
 </p>
----
+
 
 ## Technology Stack
 
