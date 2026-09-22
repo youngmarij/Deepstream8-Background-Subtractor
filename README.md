@@ -27,6 +27,13 @@ The application receives an RTSP video stream as input and produces two separate
 
 ## Results
 
+<p align="center">
+  <img src="result/sample_720p.mp4" width="900" alt="Sample">
+</p>
+---
+<p align="center">
+  <img src="result/backgroundsubstractor.mp4" width="900" alt="Sample">
+</p>
 ---
 
 ## Technology Stack
